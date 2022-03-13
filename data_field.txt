@@ -1,0 +1,41 @@
+ad_data = ["adDetail"]["data"]["ad"]
+member = ad_data ["account"]["traits"]["member"]
+verified = ad_data ["account"]["traits"]["verified"]
+title = ad_data["title"]
+description = ad_data["description"]
+properties = ad_data["properties"]["0"]
+features = {}
+for p in properties:
+	for i in p.values()
+		features[i["key"]] = i["value_key"]
+
+member = ad_data["isMember"]
+auth_dealer = ad_data["isAuthDealer"]
+featured_member = ad_data["isFeaturedMember"]
+membership_level = ad_data["membershipLevel"]
+verified = ad_data["isVerified"]
+door_step_delivery = ad_data["isDoorstepDelivery"]
+dsd_applicable = ad_data["isDSDApplicable"]
+timestamp = ad_data["timestamp"]
+date = ad_Data["adDate"]
+deactivates = ad_data["deactivates"]
+location_data = ad_data["location"]
+location = location_data["name"]
+geograrphy_data = lcoation_data["geography"]["simple_polygons"]["0"]["coordinates"]
+geo_polygon_no = len(geography_data.keys())
+
+category_name = ad_data["category"]["name"]
+area = ad_data["area"]["name"]
+contact_name = ad_data["contactCard"]["name"]
+contact_number = ad_data["contactCard"]["phoneNumbers"]
+phone_number = [p["number"] for p in contact_number]
+
+shop_name = ad_data["shop"]["name"]
+shop_email = ad_data["shop"]["email"]
+
+price = ad_data["money"]["amount"]
+delivery_free = ad_data["isDeliveryFree"]
+
+similar_ads = ["adDetail"]["data"]["similarAds"]
+
+images_url =  ["image"]]

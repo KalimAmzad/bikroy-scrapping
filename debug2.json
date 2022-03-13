@@ -1,0 +1,366 @@
+{
+    "locale": "en",
+    "marketLocales": [
+        "en",
+        "bn"
+    ],
+    "locations": {
+        "type": "NotAsked"
+    },
+    "categories": {
+        "type": "NotAsked"
+    },
+    "category": {
+        "id": 896,
+        "name": "Laptops"
+    },
+    "browserInfo": {
+        "fakeWidth": 1200,
+        "webpSupported": false
+    },
+    "jobsVertical": {
+        "filters": {
+            "type": "NotAsked"
+        }
+    },
+    "serp": {
+        "ads": {
+            "type": "NotAsked"
+        },
+        "staticFilters": {
+            "sort": "date_desc",
+            "posterType": "all_posters",
+            "isDoorstepDelivery": false,
+            "isUrgent": false,
+            "isFeaturedMember": false,
+            "location": -1,
+            "category": -1,
+            "categorySlug": "",
+            "locationSlug": "bangladesh",
+            "page": 1,
+            "query": ""
+        },
+        "dynamicFilters": {},
+        "snapshot": null
+    },
+    "verticals": [
+        {
+            "key": "jobs",
+            "name": "Jobs",
+            "categories": [
+                {
+                    "id": 700
+                },
+                {
+                    "id": 1401
+                },
+                {
+                    "id": 1402
+                },
+                {
+                    "id": 1404
+                },
+                {
+                    "id": 1405
+                },
+                {
+                    "id": 1406
+                },
+                {
+                    "id": 1407
+                },
+                {
+                    "id": 1408
+                },
+                {
+                    "id": 1409
+                },
+                {
+                    "id": 1410
+                },
+                {
+                    "id": 1411
+                },
+                {
+                    "id": 1412
+                },
+                {
+                    "id": 1413
+                },
+                {
+                    "id": 1414
+                },
+                {
+                    "id": 1415
+                },
+                {
+                    "id": 1487
+                },
+                {
+                    "id": 1416
+                },
+                {
+                    "id": 1417
+                },
+                {
+                    "id": 1488
+                },
+                {
+                    "id": 1489
+                },
+                {
+                    "id": 1501
+                },
+                {
+                    "id": 1418
+                },
+                {
+                    "id": 1419
+                },
+                {
+                    "id": 1420
+                },
+                {
+                    "id": 1421
+                },
+                {
+                    "id": 1422
+                },
+                {
+                    "id": 1423
+                },
+                {
+                    "id": 1424
+                },
+                {
+                    "id": 1425
+                },
+                {
+                    "id": 1426
+                },
+                {
+                    "id": 1427
+                },
+                {
+                    "id": 1490
+                },
+                {
+                    "id": 1428
+                },
+                {
+                    "id": 1429
+                },
+                {
+                    "id": 1430
+                },
+                {
+                    "id": 1482
+                },
+                {
+                    "id": 1483
+                },
+                {
+                    "id": 1431
+                },
+                {
+                    "id": 1432
+                },
+                {
+                    "id": 1433
+                },
+                {
+                    "id": 1434
+                },
+                {
+                    "id": 1491
+                },
+                {
+                    "id": 1492
+                },
+                {
+                    "id": 1486
+                },
+                {
+                    "id": 1493
+                },
+                {
+                    "id": 1435
+                },
+                {
+                    "id": 1436
+                },
+                {
+                    "id": 1438
+                },
+                {
+                    "id": 1439
+                },
+                {
+                    "id": 1440
+                },
+                {
+                    "id": 1494
+                },
+                {
+                    "id": 1495
+                },
+                {
+                    "id": 1441
+                },
+                {
+                    "id": 1442
+                },
+                {
+                    "id": 1443
+                },
+                {
+                    "id": 1444
+                },
+                {
+                    "id": 1445
+                },
+                {
+                    "id": 1446
+                },
+                {
+                    "id": 1447
+                },
+                {
+                    "id": 1484
+                },
+                {
+                    "id": 1449
+                },
+                {
+                    "id": 1450
+                },
+                {
+                    "id": 1452
+                },
+                {
+                    "id": 1453
+                },
+                {
+                    "id": 1481
+                },
+                {
+                    "id": 1454
+                },
+                {
+                    "id": 1455
+                },
+                {
+                    "id": 1456
+                },
+                {
+                    "id": 1457
+                },
+                {
+                    "id": 1458
+                },
+                {
+                    "id": 1459
+                },
+                {
+                    "id": 1485
+                },
+                {
+                    "id": 1496
+                },
+                {
+                    "id": 1497
+                },
+                {
+                    "id": 1460
+                },
+                {
+                    "id": 1461
+                },
+                {
+                    "id": 1462
+                },
+                {
+                    "id": 1463
+                },
+                {
+                    "id": 1502
+                },
+                {
+                    "id": 1464
+                },
+                {
+                    "id": 1466
+                },
+                {
+                    "id": 1467
+                },
+                {
+                    "id": 1498
+                },
+                {
+                    "id": 1468
+                },
+                {
+                    "id": 1499
+                },
+                {
+                    "id": 1469
+                },
+                {
+                    "id": 1500
+                },
+                {
+                    "id": 1470
+                },
+                {
+                    "id": 1471
+                },
+                {
+                    "id": 1472
+                },
+                {
+                    "id": 1473
+                },
+                {
+                    "id": 1474
+                },
+                {
+                    "id": 1476
+                },
+                {
+                    "id": 1477
+                },
+                {
+                    "id": 1478
+                },
+                {
+                    "id": 1479
+                },
+                {
+                    "id": 1480
+                },
+                {
+                    "id": 1451
+                }
+            ]
+        }
+    ],
+    "isGhanaWeb": false,
+    "market": {
+        "integrations": []
+    },
+    "experimentCookie": "",
+    "adDetail": {
+        "type": "Success",
+        "data": {
+            "ad": {
+                "id": "62261a907ab35700199a1ec8",
+                "account": {
+                    "id": "6225e5a934d720007bb3e0c5",
+                    "traits": {}
+                },
+                "details": "",
+                "slug": "hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka",
+                "title": "HP ProBook 450 G3 (i5 6th Generation) Full Fresh Laptop",
+                "description": "Condition: Super Fresh like Brand New\\nGraphics: 15.6\\" Display with Dedicated Graphics & HD Camera\\nProcessor: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz\\nRam & Hard Disks: 8GB RAM,
+                256 GB SSD (Windows) + 1 TB HDD\\nBattery: 4 hrs+ Battery Backup with Original Charger\\nOthers: DVD ROM, Dolby Professional Surround Sound, Card Reader","properties":[{"label":"Condition","value":"Used","key":"condition","value_key":"used"},{"label":"Brand","value":"HP","key":"brand","value_key":"hp"},{"label":"Model","value":"ProBook 450 G3","key":"model"}],"isMember":false,"isAuthDealer":false,"isFeaturedMember":false,"type":"for_sale","status":"published","membershipLevel":"free","isVerified":false,"postedDate":0,"isDoorstepDelivery":false,"isDSDApplicable":true,"timestamp":"10 Mar 4: 07 pm","adDate":"2022-03-10T16: 07: 07+06: 00","deactivates":"2022-05-06T14: 45: 36.000Z","location":{"id":1292,"name":"Uttara","children":[],"geography":{"simple_polygons":[{"coordinates":[{"latitude":23.894313,"longitude":90.358944},{"latitude":23.863548,"longitude":90.347099},{"latitude":23.830262,"longitude":90.415077},{"latitude":23.853343,"longitude":90.47018},{"latitude":23.89612,"longitude":90.387956}]}]},"geo_region":"BD-13","slug":"uttara","link":"/ads/uttara","parentId":1211,"parent":{"id":1211,"children":[1255,1292,1259,1281,1232,1242,1224,1215,4068,1221,1235,1276,1254,1251,1260,1217,1253,4076,4082,1291,1279,4069,3580,1230,4080,1272,3582,1226,4081,1290,1249,1220,1294,4079,1275,4078,1227,1241,1231,3579,1245,1233,1263,1218,1256,4088,1284],"name":"Dhaka","geography":{"simple_polygons":[{"coordinates":[{"latitude":23.836923,"longitude":90.248428},{"latitude":23.758725,"longitude":90.245876},{"latitude":23.764749,"longitude":90.322621},{"latitude":23.652392,"longitude":90.386777},{"latitude":23.712127,"longitude":90.51735},{"latitude":23.900967,"longitude":90.464476},{"latitude":23.922007,"longitude":90.391296},{"latitude":24.024114,"longitude":90.242784},{"latitude":24.013722,"longitude":90.196741},{"latitude":23.999115,"longitude":90.188486},{"latitude":23.980117,"longitude":90.193279},{"latitude":23.970899,"longitude":90.207053},{"latitude":23.962934,"longitude":90.221513},{"latitude":23.948258,"longitude":90.226397},{"latitude":23.914515,"longitude":90.230667},{"latitude":23.872597,"longitude":90.237666}]}]},"geo_region":"BD-13","slug":"dhaka","link":"/ads/dhaka","parentId":-1}},"category":{"id":896,"name":"Laptops","children":[],"ad_types":["for_sale","to_buy"],"serp_type":"ads","available_serp_layouts":["classic","fluid"],"default_serp_layout":"fluid","default_ad_type":"for_sale","slug":"laptops","form_view_version":"1","parentId":229,"parent":{"id":229,"children":[893,896,897,894,851,850,855,846,848,242,895,244],"name":"Electronics","ad_types":[],"serp_type":"ads","available_serp_layouts":["classic","fluid"],"default_serp_layout":"fluid","type":"electronics","slug":"electronics","form_view_version":"1","parentId":-1}},"area":{"id":1211,"name":"Dhaka"},"contactCard":{"name":"Epeene1","phoneNumbers":[{"number":"01841032899","verified":true}],"chatEnabled":true},"images":{"meta":[{"src":"https: //i.bikroy-st.com/hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka/79e41b8f-4e9a-43de-8dd3-ba6928d35d15","alt":"HP ProBook 450 G3 (i5 6th Generation) Full Fresh Laptop in Dhaka"},{"src":"https://i.bikroy-st.com/hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka/1bb5a18b-195f-4f66-b6bf-5f956b01f577","alt":"HP ProBook 450 G3 (i5 6th Generation) Full Fresh Laptop in Uttara"},{"src":"https://i.bikroy-st.com/hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka/e7b8361c-4279-4046-89d2-e5e8add9116d","alt":"HP ProBook 450 G3 (i5 6th Generation) Full Fresh Laptop Laptops"}],"base_uri":"https://i.bikroy-st.com","metadata":[]},"shop":{},"money":{"label":"Price","amount":"Tk 31,500"},"statistics":{},"job":{},"isDeliveryFree":false,"memberLogo":"https://i.bikroy-st.com/hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka/79e41b8f-4e9a-43de-8dd3-ba6928d35d15/72/54/cropped.jpg","imgUrl":"https://i.bikroy-st.com/hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka/79e41b8f-4e9a-43de-8dd3-ba6928d35d15/142/107/cropped.jpg","isLocalJob":false},"similarAds":[{"id":"61e2d8c25e440342b8965b3f","slug":"hp-probook-430-g3-6th-generation-core-i5-for-sale-dhaka","title":"HP PROBOOK 430 G3 ☀️ 6th-Generation Core i5","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-probook-430-g3-6th-generation-core-i5-for-sale-dhaka/589e3604-21dc-433f-b6fa-74a09f0b8092/142/107/cropped.jpg","price":"Tk 26,000","discount":0,"mrp":0,"isMember":true,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"premium","shopName":"BROTHERS TECHNOLOGY","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"54 days","category":{"id":896,"name":"Laptops"},"isVerified":true,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"61ec16829fcde40019c2a515","slug":"hp-probook-430-g3-processor-6th-generation-core-i5-for-sale-dhaka-1","title":"HP PROBOOK 430 G3 PROCESSOR: 6th-Generation Core i5","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-probook-430-g3-processor-6th-generation-core-i5-for-sale-dhaka-1/628a916b-c02b-4261-a06e-3b16ecb0c1b6/142/107/cropped.jpg","price":"Tk 24,500","discount":0,"mrp":0,"isMember":true,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"premium","shopName":"BROTHERS TECHNOLOGY","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"47 days","category":{"id":896,"name":"Laptops"},"isVerified":true,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"61e584379578b661401a7a21","slug":"hp-probook-430-g3-6th-gen-core-i5-for-sale-dhaka","title":"👌 HP PROBOOK 430 G3 6th-Gen Core i5","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-probook-430-g3-6th-gen-core-i5-for-sale-dhaka/17a47405-03c6-4b5e-bbe2-67b324236a57/142/107/cropped.jpg","price":"Tk 24,500","discount":0,"mrp":0,"isMember":true,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"premium","shopName":"BROTHERS TECHNOLOGY","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"52 days","category":{"id":896,"name":"Laptops"},"isVerified":true,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"61f6aa7b9bd8c138b49048e5","slug":"hp-elitebook-850-g3-processor-6th-generation-core-i5-for-sale-dhaka-3","title":"HP Elitebook 850 G3 PROCESSOR: 6th-Generation Core i5","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-elitebook-850-g3-processor-6th-generation-core-i5-for-sale-dhaka-3/aa39bc3f-5139-48e7-a70e-33caee62544a/142/107/cropped.jpg","price":"Tk 34,500","discount":0,"mrp":0,"isMember":true,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"premium","shopName":"BROTHERS TECHNOLOGY","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"39 days","category":{"id":896,"name":"Laptops"},"isVerified":true,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"61ec1678f49292007cf933e8","slug":"hp-elitebook-850-g3-processor-6th-generation-core-i5-for-sale-dhaka-1","title":"HP Elitebook 850 G3 PROCESSOR: 6th-Generation Core i5","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-elitebook-850-g3-processor-6th-generation-core-i5-for-sale-dhaka-1/c4f6b44e-c128-4d55-a983-77bd47416a37/142/107/cropped.jpg","price":"Tk 36,000","discount":0,"mrp":0,"isMember":true,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"premium","shopName":"BROTHERS TECHNOLOGY","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"47 days","category":{"id":896,"name":"Laptops"},"isVerified":true,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"61fe8cae38692630bdd29942","slug":"hp-laptop-probook-430-g3-for-sale-dhaka","title":"HP Laptop probook 430 g3","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-laptop-probook-430-g3-for-sale-dhaka/f5975c82-c058-4711-9a33-75eb9369ea0c/142/107/cropped.jpg","price":"Tk 40,000","discount":0,"mrp":0,"isMember":false,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"free","shopName":"","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"33 days","category":{"id":896,"name":"Laptops"},"isVerified":false,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"61ead3363494d500495fc3e9","slug":"hp-probook-430-g3-hdd-500-hdd-ram-4-gb-6th-generation-core-i5-for-sale-dhaka","title":"HP PROBOOK 430 G3 ✅ HDD: 500 HDD → RAM: 4 GB 6th-Generation Core i5","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-probook-430-g3-hdd-500-hdd-ram-4-gb-6th-generation-core-i5-for-sale-dhaka/66ccb7c6-9ef7-4b7f-a891-7c4e269823d2/142/107/cropped.jpg","price":"Tk 24,500","discount":0,"mrp":0,"isMember":true,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"premium","shopName":"BROTHERS TECHNOLOGY","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"48 days","category":{"id":896,"name":"Laptops"},"isVerified":true,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"620a0474475dc8004816664c","slug":"hp-probook-440-g1-i5-4th-generation-for-sale-dhaka-23","title":"HP Probook 440 G1 i5 4th Generation","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-probook-440-g1-i5-4th-generation-for-sale-dhaka-23/d463eaaa-6484-4551-b134-bf8bd4954ecd/142/107/cropped.jpg","price":"Tk 18,900","discount":0,"mrp":0,"isMember":true,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"plus","shopName":"Surid computers LTD","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"24 days","category":{"id":896,"name":"Laptops"},"isVerified":false,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"6226d538cb406a6a4335c052","slug":"hp-probook-450-g3-6gen-i5-for-sale-dhaka","title":"HP Probook 450 G3 6gen i5","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-probook-450-g3-6gen-i5-for-sale-dhaka/a441ad55-601e-4228-9e7f-86efc7ed3d66/142/107/cropped.jpg","price":"Tk 26,500","discount":0,"mrp":0,"isMember":false,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"free","shopName":"","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"2 days","category":{"id":896,"name":"Laptops"},"isVerified":false,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"61dcff45aa4a9e007c02f66e","slug":"hp-probook-440-g3-for-sale-dhaka-17","title":"HP PROBOOK 440 G3","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-probook-440-g3-for-sale-dhaka-17/2f01b427-d119-4631-b65f-d932d7276e47/142/107/cropped.jpg","price":"Tk 21,900","discount":0,"mrp":0,"isMember":false,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"free","shopName":"","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"58 days","category":{"id":896,"name":"Laptops"},"isVerified":false,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"6222fb6326dc2a001988d1c2","slug":"hp-probook-850-g3-for-sale-dhaka-3","title":"HP ProBook 850 G3","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-probook-850-g3-for-sale-dhaka-3/c3fe1b5e-d7e0-4fcb-94b2-d073c524d6b2/142/107/cropped.jpg","price":"Tk 28,000","discount":0,"mrp":0,"isMember":false,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"free","shopName":"","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"5 days","category":{"id":896,"name":"Laptops"},"isVerified":false,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"621f4993942230001999f2bb","slug":"hp-probook-450-g3-core-i5-6th-gen-for-sale-dhaka-7","title":"HP Probook 450 G3 Core i5 6th Gen","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-probook-450-g3-core-i5-6th-gen-for-sale-dhaka-7/b20ae95e-a5f3-4a71-a247-2046cd71bbf9/142/107/cropped.jpg","price":"Tk 26,500","discount":0,"mrp":0,"isMember":false,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"free","shopName":"","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"8 days","category":{"id":896,"name":"Laptops"},"isVerified":false,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"620badde0ee8810019614e7e","slug":"hp-probook-450-core-i3-4th-generation-for-sale-dhaka","title":"Hp Probook 450 core i3 4th generation","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-probook-450-core-i3-4th-generation-for-sale-dhaka/14df4c65-d152-4c94-824c-26eae2c0e5ef/142/107/cropped.jpg","price":"Tk 13,000","discount":0,"mrp":0,"isMember":false,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"free","shopName":"","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"23 days","category":{"id":896,"name":"Laptops"},"isVerified":false,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"6223b220db4d8a4678be5f4f","slug":"hp-probook-450-g4-i3-7th-gen-for-sale-dhaka-1","title":"Hp ProBook 450 G4 i3 7th Gen","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-probook-450-g4-i3-7th-gen-for-sale-dhaka-1/32386fb9-bb93-4337-894b-e95d403bc693/142/107/cropped.jpg","price":"Tk 37,999","discount":0,"mrp":0,"isMember":false,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"free","shopName":"","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"4 days","category":{"id":896,"name":"Laptops"},"isVerified":false,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"61ec1673d733304d413b852f","slug":"hp-elitebook-840-g3-processor-6th-generation-core-i5-for-sale-dhaka-3","title":"HP Elitebook 840 G3 PROCESSOR: 6th-Generation Core i5","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-elitebook-840-g3-processor-6th-generation-core-i5-for-sale-dhaka-3/c31facb9-1ca0-4a2b-8495-a9fd4ce30587/142/107/cropped.jpg","price":"Tk 29,500","discount":0,"mrp":0,"isMember":true,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"premium","shopName":"BROTHERS TECHNOLOGY","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"47 days","category":{"id":896,"name":"Laptops"},"isVerified":true,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false},{"id":"61e5836ad8697f6d9aa6f36b","slug":"hp-elitebook-840-g3-6th-generation-core-i5-for-sale-dhaka-4","title":"👌 HP Elitebook 840✔️ G3 6th-Generation Core i5","description":"Dhaka, Laptops","details":"","imgUrl":"https://i.bikroy-st.com/hp-elitebook-840-g3-6th-generation-core-i5-for-sale-dhaka-4/00b81e92-641a-4fbf-8d73-fd0f62c1dcf6/142/107/cropped.jpg","price":"Tk 29,500","discount":0,"mrp":0,"isMember":true,"isAuthDealer":false,"isFeaturedMember":false,"membershipLevel":"premium","shopName":"BROTHERS TECHNOLOGY","isDoorstepDelivery":false,"isDeliveryFree":false,"isTopAd":false,"isUrgentAd":false,"timeStamp":"52 days","category":{"id":896,"name":"Laptops"},"isVerified":true,"isJobAd":false,"location":"Dhaka","adType":"for_sale","isLocalJob":false}],"safetyTips":["Avoid offers that look unrealistic","Chat with seller to clarify item details","Meet in a safe & public place","Check the item before buying it","Don’t pay in advance"],"title":"HP ProBook 450 G3 (i5 6th Generation) Full Fresh Laptop in Uttara | Bikroy.com","description":"Condition: Super Fresh like Brand New\\nGraphics: 15.6\\" Display with Dedicated Graphics & HD Camera\\nProcessor: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz\\nRam & Hard Disks: 8G..."}},"subShop":{"type":"NotAsked"},"shop":{"type":"NotAsked"},"shopSerp":{"type":"NotAsked"},"banners":{"type":"Success","data":{"web":{"skyscraper":{"slot":"/134461134/bikroy_desktop_detailview_skyscraper","sizes":[[300,250],[300,600]],"key_values":[{"key":"url","values":["hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka"]},{"key":"page","values":["detail"]},{"key":"locale","values":["en"]},{"key":"by_authorized_dealer","values":[false]},{"key":"buy_now","values":[false]},{"key":"by_featured_member","values":[false]},{"key":"l1_category","values":["electronics"]},{"key":"l2_category","values":["laptops"]},{"key":"bikroy_l1_location","values":["dhaka"]},{"key":"bikroy_l2_location","values":["uttara"]},{"key":"bikroy_price","values":["30-40k"]},{"key":"bikroy_brand","values":["hp"]},{"key":"bikroy_model","values":["ProBook 450 G3"]},{"key":"condition","values":["used"]},{"key":"Ad_Format","values":["skyscraper"]},{"key":"Platform","values":["Desktop"]}]},"leaderboard":{"slot":"/134461134/bikroy_desktop_detailview_leaderboard","sizes":[[970,90]],"key_values":[{"key":"url","values":["hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka"]},{"key":"page","values":["detail"]},{"key":"locale","values":["en"]},{"key":"by_authorized_dealer","values":[false]},{"key":"buy_now","values":[false]},{"key":"by_featured_member","values":[false]},{"key":"l1_category","values":["electronics"]},{"key":"l2_category","values":["laptops"]},{"key":"bikroy_l1_location","values":["dhaka"]},{"key":"bikroy_l2_location","values":["uttara"]},{"key":"bikroy_price","values":["30-40k"]},{"key":"bikroy_brand","values":["hp"]},{"key":"bikroy_model","values":["ProBook 450 G3"]},{"key":"condition","values":["used"]},{"key":"Ad_Format","values":["leaderboard"]},{"key":"Platform","values":["Desktop"]}]},"lowerboard":{"slot":"/134461134/bikroy_desktop_detailview_lowerboard","sizes":[[970,90]],"key_values":[{"key":"url","values":["hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka"]},{"key":"page","values":["detail"]},{"key":"locale","values":["en"]},{"key":"by_authorized_dealer","values":[false]},{"key":"buy_now","values":[false]},{"key":"by_featured_member","values":[false]},{"key":"l1_category","values":["electronics"]},{"key":"l2_category","values":["laptops"]},{"key":"bikroy_l1_location","values":["dhaka"]},{"key":"bikroy_l2_location","values":["uttara"]},{"key":"bikroy_price","values":["30-40k"]},{"key":"bikroy_brand","values":["hp"]},{"key":"bikroy_model","values":["ProBook 450 G3"]},{"key":"condition","values":["used"]},{"key":"Ad_Format","values":["lowerboard"]},{"key":"Platform","values":["Desktop"]}]}},"mobile_web":{"leaderboard":{"slot":"/134461134/bikroy_mobile_detailview_leaderboard","sizes":[[320,100]],"key_values":[{"key":"url","values":["hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka"]},{"key":"page","values":["detail"]},{"key":"locale","values":["en"]},{"key":"by_authorized_dealer","values":[false]},{"key":"buy_now","values":[false]},{"key":"by_featured_member","values":[false]},{"key":"l1_category","values":["electronics"]},{"key":"l2_category","values":["laptops"]},{"key":"bikroy_l1_location","values":["dhaka"]},{"key":"bikroy_l2_location","values":["uttara"]},{"key":"bikroy_price","values":["30-40k"]},{"key":"bikroy_brand","values":["hp"]},{"key":"bikroy_model","values":["ProBook 450 G3"]},{"key":"condition","values":["used"]},{"key":"Ad_Format","values":["leaderboard"]},{"key":"Platform","values":["Mobile"]}]},"middle":{"slot":"/134461134/bikroy_mobile_detailview_middle","sizes":[[300,250],[320,100],[320,250]],"key_values":[{"key":"url","values":["hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka"]},{"key":"page","values":["detail"]},{"key":"locale","values":["en"]},{"key":"by_authorized_dealer","values":[false]},{"key":"buy_now","values":[false]},{"key":"by_featured_member","values":[false]},{"key":"l1_category","values":["electronics"]},{"key":"l2_category","values":["laptops"]},{"key":"bikroy_l1_location","values":["dhaka"]},{"key":"bikroy_l2_location","values":["uttara"]},{"key":"bikroy_price","values":["30-40k"]},{"key":"bikroy_brand","values":["hp"]},{"key":"bikroy_model","values":["ProBook 450 G3"]},{"key":"condition","values":["used"]},{"key":"Ad_Format","values":["middle"]},{"key":"Platform","values":["Mobile"]}]},"lowerboard":{"slot":"/134461134/bikroy_mobile_detailview_lowerboard","sizes":[[300,250],[320,100],[320,250]],"key_values":[{"key":"url","values":["hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka"]},{"key":"page","values":["detail"]},{"key":"locale","values":["en"]},{"key":"by_authorized_dealer","values":[false]},{"key":"buy_now","values":[false]},{"key":"by_featured_member","values":[false]},{"key":"l1_category","values":["electronics"]},{"key":"l2_category","values":["laptops"]},{"key":"bikroy_l1_location","values":["dhaka"]},{"key":"bikroy_l2_location","values":["uttara"]},{"key":"bikroy_price","values":["30-40k"]},{"key":"bikroy_brand","values":["hp"]},{"key":"bikroy_model","values":["ProBook 450 G3"]},{"key":"condition","values":["used"]},{"key":"Ad_Format","values":["lowerboard"]},{"key":"Platform","values":["Mobile"]}]}}}},"user":{"favorites":{"type":"NotAsked"},"ads":{"type":"NotAsked"},"id":null,"sessionToken":null,"account":{"type":"NotAsked"},"signup":{"type":"NotAsked"}},"availableProducts":{"type":"NotAsked"},"paymentDetails":{"type":"NotAsked"},"categoryBreakdown":{"type":"NotAsked"},"doorstep":{"featuredProducts":{"type":"NotAsked"},"popularProducts":{"type":"NotAsked"},"doorstepBreakdown":{"type":"NotAsked"},"featuredShops":{"type":"NotAsked"},"recentlyViewed":{"type":"NotAsked"}},"seo":{"type":"NotAsked"}} {"@context":"https://schema.org/","@type":"Product","name":"HP ProBook 450 G3 (i5 6th Generation) Full Fresh Laptop","image":["https://i.bikroy-st.com/hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka/79e41b8f-4e9a-43de-8dd3-ba6928d35d15/1200/800/fitted.jpg","https://i.bikroy-st.com/hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka/1bb5a18b-195f-4f66-b6bf-5f956b01f577/1200/800/fitted.jpg","https://i.bikroy-st.com/hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka/e7b8361c-4279-4046-89d2-e5e8add9116d/1200/800/fitted.jpg"],"description":"Condition: Super Fresh like Brand New\\nGraphics: 15.6\\" Display with Dedicated Graphics & HD Camera\\nProcessor: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz\\nRam & Hard","offers":{"@type":"Offer","url":"https://bikroy.com/en/ad/hp-probook-450-g3-i5-6th-generation-full-fresh-laptop-for-sale-dhaka","priceCurrency":"BDT","price":"31500","itemCondition":"https://schema.org/UsedCondition","availability":"https://schema.org/InStock","seller":{"@type":"Person","name":"Epeene1"}},"brand":{"@type":"Brand","name":"HP"}} {"@context":"https://schema.org","@type":"Organization","url":"https://bikroy.com","logo":"https://w.bikroy-st.com/dist/img/bikroy/all/logos/square_logo_bikroy.png"}\nAll ads\nবাংলা\nChat\nLogin\nPOST YOUR AD\nHome\nAll ads\nElectronics\nLaptops\nLaptops in Dhaka\nLaptops in Uttara\nHP ProBook 450 G3 (i5 6th Generation) Full Fresh Laptop\nHP ProBook 450 G3 (i5 6th Generation) Full Fresh Laptop\nPosted on 10 Mar 4:07 pm, Uttara, Dhaka\nTk 31,500\nCondition:\nUsed\nBrand:\nHP\nModel:\nProBook 450 G3\nDescription\nCondition: Super Fresh like Brand New\nGraphics: 15.6" Display with Dedicated Graphics & HD Camera\nProcessor: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz\nRam & Hard Disks: 8GB RAM, 256 GB SSD (Windows) + 1 TB HDD\nBattery: 4 hrs+ Battery Backup with Original Charger\nOthers: DVD ROM, Dolby Professional Surround Sound, Card Reader\nFor sale by\nEpeene1\n01841XXXXXX\nClick to show phone number\nChat\nSafety tips\nAvoid offers that look unrealistic\nChat with seller to clarify item details\nMeet in a safe & public place\nCheck the item before buying it\nDon’t pay in advance\nSee all safety tips\nPromote this ad\nReport this ad\nCall\nContact Epeene1\n01841032899\nSafety tips\nAvoid offers that look unrealistic\nChat with seller to clarify item details\nMeet in a safe & public place\nCheck the item before buying it\nDon’t pay in advance\nSee all safety tips\nChat\nGet items delivered to you safely and securely with\n.doorstep-delivery-white_svg__st1{fill:#fcfbfa}\nExplore\nSimilar ads\nHP PROBOOK 430 G3 ☀️ 6th-Generation Core i5\nMEMBER\nDhaka, Laptops\nTk 26,000\n54 days\nHP PROBOOK 430 G3 PROCESSOR: 6th-Generation Core i5\nMEMBER\nDhaka, Laptops\nTk 24,500\n47 days\n👌 HP PROBOOK 430 G3 6th-Gen Core i5\nMEMBER\nDhaka, Laptops\nTk 24,500\n52 days\nHP Elitebook 850 G3 PROCESSOR: 6th-Generation Core i5\nMEMBER\nDhaka, Laptops\nTk 34,500\n39 days\nLaptops by Location\nLaptops for Sale in Dhaka\nLaptops for Sale in Dhaka Division\nLaptops for Sale in Chattogram\nLaptops for Sale in Chattogram Division\nLaptops for Sale in Rangpur\nMobile Phones by Brand\nSamsung Mobile Phones for Sale\nXiaomi Mobile Phones for Sale\nApple Mobile Phones for Sale\nOppo Mobile Phones for Sale\nRealme Mobile Phones for Sale\nElectronics by Location\nElectronics for Sale in Dhaka\nElectronics for Sale in Dhaka Division\nElectronics for Sale in Chattogram\nElectronics for Sale in Chattogram Division\nElectronics for Sale in Rangpur\nElectronics by Category\nDesktop Computers for Sale\nLaptops for Sale\nLaptop & Computer Accessories for Sale\nTVs for Sale\nAudio & Sound Systems for Sale\nDownload our app\nDownload Bikroy\nDownload Bikroy\nConnect with\nLike us on facebook\nOther countries\nSri Lanka\nMore from Bikroy\nSell Fast\nDoorstep Delivery\nMembership\nBanner Ads\nAd Promotions\nStaffing solutions\nHelp & Support\nFAQ\nStay safe\nContact Us\nFollow Bikroy\nBlog\nFacebook\nTwitter\nYoutube\nAbout Bikroy\nAbout Us\nCareers\nTerms and Conditions\nPrivacy policy\nSitemap\nCopyright © Saltside Technologies\n<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&display=swap" rel="stylesheet" />\n{ "@context": "http://schema.org", "@type": "WebSite", "name": "Bikroy", "url": "https://bikroy.com", "image": "https://w.bikroy-st.com/dist/img/bikroy/all/logos/footer-2x-dbac45ae.png", "potentialAction": [ { "@type": "SearchAction", "target": "https://bikroy.com/en/ads?query={search_term_string}", "query-input": "required name=search_term_string" }, { "@type": "SearchAction", "target": "android-app://com.bikroy/bikroy/ads?query={search_term_string}", "query-input": "required name=search_term_string" } ], "description": "Buy and sell everything from second-hand cars to mobile phones, or even find a new home. Find a great deal close to you, or search all of Bangladesh." }
